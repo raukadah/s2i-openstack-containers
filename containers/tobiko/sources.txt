@@ -1,1 +1,1 @@
-master tobiko https://opendev.org/x/tobiko.git master 35ac8e9c23559ba4d9553dc6b2ef261e8e8d2e07 0.8.32.dev12
+master tobiko https://opendev.org/x/tobiko.git master 1d725f6e62faff7c206f0abafb0c3164b9996952 0.8.32

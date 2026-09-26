@@ -1,3 +1,3 @@
 # stream  name               repo                                                     branch  pinned-hash  version
-master upper-constraints https://opendev.org/openstack/requirements.git master 9edc04289eca1a4c18ae86e4430416d82a5b07fa -
-master aetos https://opendev.org/openstack/aetos.git master ae30f0fc8de48952ac21112952e6dbf32ec36a75 2.1.0.dev13
+master upper-constraints https://opendev.org/openstack/requirements.git master 1239a52f7c6397759a5bd9660495cd4764cd32cb -
+master aetos https://opendev.org/openstack/aetos.git master 1d6b55a66208305b9b9ae0f7f03fa9ad60abb726 3.1.0.dev3

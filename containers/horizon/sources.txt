@@ -1,10 +1,10 @@
 # <stream> <name> <repo-url> <branch-to-follow> <pinned-hash>  version
-master upper-constraints https://opendev.org/openstack/requirements.git master 9edc04289eca1a4c18ae86e4430416d82a5b07fa -
-master horizon https://opendev.org/openstack/horizon.git master 93904adfdeba39dba8d2d8f9c2f2ec486ad22b22 26.0.1.dev74
-master heat-dashboard https://opendev.org/openstack/heat-dashboard.git master fb05584a24bddc73857a066ac00ebc656e15040b 15.1.0.dev15
-master ironic-ui https://opendev.org/openstack/ironic-ui.git master bce74adf2fd0969821fe21f3b31cfffe5214b59f 6.9.0
-master manila-ui https://opendev.org/openstack/manila-ui.git master c1f5b0496b9f32e6431fe4ea96af70b8f7b52ab4 15.1.0.dev20
-master octavia-dashboard https://opendev.org/openstack/octavia-dashboard.git master 94ef322b1aa2563f56c83d9db5f7a240f6fd151e 17.1.0.dev48
-master designate-dashboard https://opendev.org/openstack/designate-dashboard.git master 98a0a76eac11e94e2d6202f417ca8a616f259bac 23.0.0.0rc1
-master watcher-dashboard https://opendev.org/openstack/watcher-dashboard.git master 25960ca8ef73e7cd0339fcb2f193c1ab04f0f8cc 16.1.0.dev1
-master cloudkitty-dashboard https://opendev.org/openstack/cloudkitty-dashboard.git master 6a48bceec02767eae6949c335da68b88b6d6cd7a 22.1.0.dev32
+master upper-constraints https://opendev.org/openstack/requirements.git master 1239a52f7c6397759a5bd9660495cd4764cd32cb -
+master horizon https://opendev.org/openstack/horizon.git master 6620046089acad5036d23c6fcbf1d1b6216696dc 27.1.0.dev6
+master heat-dashboard https://opendev.org/openstack/heat-dashboard.git master 4676c9f3066d37434057870dc4fd2598b0175690 16.1.0.dev10
+master ironic-ui https://opendev.org/openstack/ironic-ui.git master 457ae742139812034574bca45581ecb6bf4749bc 6.10.0.dev2
+master manila-ui https://opendev.org/openstack/manila-ui.git master f4a2a5f87346b260c3f200e838e480e2a20eb1a5 16.1.0.dev3
+master octavia-dashboard https://opendev.org/openstack/octavia-dashboard.git master 94ef322b1aa2563f56c83d9db5f7a240f6fd151e 18.0.0.0rc1
+master designate-dashboard https://opendev.org/openstack/designate-dashboard.git master fc709d7f263d8d66cdb080376ad8e13b60d0cef5 23.1.0.dev11
+master watcher-dashboard https://opendev.org/openstack/watcher-dashboard.git master 8a42e0fed4e6707ea6609b09662aa8d98c6ac4f8 16.1.0.dev5
+master cloudkitty-dashboard https://opendev.org/openstack/cloudkitty-dashboard.git master 8fed6f251da47b0eb5d904a7bbca696069bce2c5 23.1.0.dev3
